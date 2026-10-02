@@ -1,6 +1,4 @@
-package co.edu.java.core.numbers;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package co.edu.java.core.datatypes.numbers;
 
 public class AppIntegers {
 

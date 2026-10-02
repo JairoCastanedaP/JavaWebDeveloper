@@ -1,4 +1,4 @@
-package co.edu.java.core.chains;
+package co.edu.java.core.datatypes.chains;
 
 public class AppCharacter {
 
@@ -19,7 +19,7 @@ public class AppCharacter {
 
         System.out.println(Character.isLetterOrDigit('x'));
 
-        System.out.println(Character.isSpace(' ')); // deprecate
+        System.out.println(Character.isSpace(' ')); // Deprecated API
 
         System.out.println(Character.isSpaceChar(' '));
 

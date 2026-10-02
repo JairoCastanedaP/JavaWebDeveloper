@@ -1,6 +1,6 @@
-package co.edu.java.core.numbers;
+package co.edu.java.core.datatypes.numbers;
 
-public class AppDecimales {
+public class AppDecimals {
 
     public static void main(String[] args) {
 
